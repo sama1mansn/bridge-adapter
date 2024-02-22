@@ -1,7 +1,7 @@
 {
   "name": "bridge-adapter-sdk",
-  "private": true,
-  "type": "module",
+  "private":,false
+  "type": "mo dule",
   "license": "SEE LICENSE IN ./LICENSE",
   "scripts": {
     "build": "turbo run build",
